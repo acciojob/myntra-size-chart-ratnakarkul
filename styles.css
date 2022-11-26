@@ -1,5 +1,25 @@
 table, th, td {
     border: 1px solid black;
-    border-collapse: collapse;
+    border-collapse: collapse;   
   }
+  table{
+    width: 50%;
+    text-align: left;
+  }
+  .right{
+    text-align: right;
+  }
+.head1{
+    background-color: brown;
+    color: white;
+  }
+  .head2{
+    color: white;
+    background-color: lightcoral;
+  }
+  .head3{
+    background-color: rgb(rgb(151, 53, 53), green, blue);
+  }
+  .head4{
+    background-color: rgba(241, 236, 232, 0.795);;
 /* Your CSS Code here. */
